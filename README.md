@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... a new job in AZ with sponsorship
 - 🌱 I’m currently learning ... dotNet
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... rhods15@hotmail.com
+- 📫 How to reach me ... rhods15@hotmail.com or robinob@kth.se
 
 <!---
 RH0DS/RH0DS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
