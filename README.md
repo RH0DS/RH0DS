@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RH0DS
+- 👋 Hi, I’m @RH0DS, Robin Öberg. 
 - 👀 I’m interested in ... a new job in AZ with sponsorship
 - 🌱 I’m currently learning ... dotNet
 - 💞️ I’m looking to collaborate on ...
