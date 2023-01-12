@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RH0DS, Robin Öberg. 
 - 👀 I’m interested in ... .NET applications
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning ... TypeScript
 - 💞️ 
 - 📫 How to reach me ... rhods15@hotmail.com || robinob@kth.se || robin.oberg@appliedtechnology.se
 
