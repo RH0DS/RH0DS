@@ -29,7 +29,7 @@ Personality:
 I am a relaxed and easy-going person who is adaptable to different situations. I am a team player and I enjoy working with others. I am also very focused and determined when it comes to achieving my goals.
 
 Short term goals:
-Currently looking for deployment as a developer
+Currently looking for deployment 
 
 Bio:
 I am a software developer with over 20 years of experience in the hospitality industry. I am currently working at SALT where I have been developing web applications using C#, .NET, and ASP.NET. I am also well-versed in HTML, CSS, JavaScript, React, SQL, and TypeScript. My interests include coding, bowling, and Gaming. I am currently looking for deployment as a developer. Based in Stockholm, Sweden.
