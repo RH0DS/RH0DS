@@ -1,7 +1,4 @@
 # Hi there, I'm Robin Öberg!
-
-### Age: 37
-
 #Employer: SALT
 
 Location: Stockholm
