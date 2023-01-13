@@ -5,7 +5,12 @@ Employer: SALT
 Location: Stockholm
 
 Latest Project:
+![Alt Text][id]
+[id]: [url/to/img.jpg](https://github.com/Sarehj/Qsign/blob/main/client/src/Components/Images/logo.png?raw=true) "Optional Title"
+
 www.qsign.org 
+https://github.com/Sarehj/Qsign
+
 It was a colaboration where I was responsible for the authorization and authentication as well as contributing to the backend workings with our API. 
 
 Tech Stack:
@@ -19,6 +24,8 @@ JavaScript
 React
 SQL
 TypeScript
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 Interests:
 
 Coding
