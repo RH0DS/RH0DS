@@ -26,13 +26,9 @@ What I work with:
 
 <h2>Latest Project: </h2>
 
-www.qsign.org 
+<h3>www.qsign.org</h3> 
 
-https://github.com/Sarehj/Qsign
-
-
-
-
+<h3><a href="https://github.com/Sarehj/Qsign" target="_blank">Qsign public github</a></h3>
 
 
    [![rsz-screenshot-2023-01-05-at-150015.png](https://i.postimg.cc/nhghP1RD/rsz-screenshot-2023-01-05-at-150015.png)](https://postimg.cc/68VK7CNW)
