@@ -40,7 +40,7 @@ https://github.com/Sarehj/Qsign
 
 <h2>MY Role in Qsign: </h2>  
 <h3>It was a colaboration where I was responsible for the authorization and authentication as well as contributing to the backend workings of our API. </h3>
-
+<br></br>
 <h1>  How to reach me: 📧 </h1>
 
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
