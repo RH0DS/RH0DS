@@ -39,7 +39,7 @@ https://github.com/Sarehj/Qsign
 
 
 <h2>MY Role in Qsign: </h2>  
-<h3>It was a colaboration where I was responsible for the authorization and authentication as well as contributing to the backend workings with our API. </h3>
+<h3>It was a colaboration where I was responsible for the authorization and authentication as well as contributing to the backend workings of our API. </h3>
 
 <h1>  How to reach me: 📧 </h1>
 
