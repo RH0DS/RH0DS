@@ -1,10 +1,5 @@
-# Hi there, I'm Robin Öberg
-
-Bio:
-I am a software developer with over 20 years of experience in the hospitality industry. I am currently working at SALT where I have been developing web applications using C#, .NET, and ASP.NET. I am also well-versed in HTML, CSS, JavaScript, React, SQL, and TypeScript. My interests include coding, bowling, and Gaming. I am currently looking for deployment as a developer. Based in Stockholm, Sweden.
-
-
-Tech:
+# Hi there, I'm Robin Öberg 🧭
+What I work with:
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -24,7 +19,12 @@ Tech:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-Latest Project:
+<h3>Employer: SALT</h3>
+<h2>Currently looking for deployment</h2><h4>Hire me through ▶️ www.salt.dev</h4>
+
+<br></br>
+
+<h2>Latest Project: </h2>
 
 www.qsign.org 
 
@@ -38,11 +38,29 @@ https://github.com/Sarehj/Qsign
    [![rsz-screenshot-2023-01-05-at-150015.png](https://i.postimg.cc/nhghP1RD/rsz-screenshot-2023-01-05-at-150015.png)](https://postimg.cc/68VK7CNW)
 
 
-MY Role in Qsign:  
-It was a colaboration where I was responsible for the authorization and authentication as well as contributing to the backend workings with our API. 
+<h2>MY Role in Qsign: </h2>  
+<h3>It was a colaboration where I was responsible for the authorization and authentication as well as contributing to the backend workings with our API. </h3>
+
+<h1>  How to reach me: 📧 </h1>
+
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+rhods15@hotmail.com
+
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+robinob@kth.se
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+robin.oberg@appliedtechnology.se
 
 
-Interests:
+
+
+<details>
+ <summary><h2> 👉Read more about me here 👈 🤓 </h2></summary>
+   Bio:
+I am a software developer with over 20 years of experience in the hospitality industry. I am currently working at SALT where I have been developing web applications using C#, .NET, and ASP.NET. I am also well-versed in HTML, CSS, JavaScript, React, SQL, and TypeScript. My interests include coding, bowling, and Gaming. I am currently looking for deployment as a developer. Based in Stockholm, Sweden.
+   
+   Interests:
 
 Coding,
 Bowling,
@@ -53,15 +71,5 @@ I am a relaxed and easy-going person who is adaptable to different situations. I
 
 Short term goals:
 Currently looking for deployment 
-
-
-How to reach me:
-
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-rhods15@hotmail.com
-
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-robinob@kth.se
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-robin.oberg@appliedtechnology.se
+   
+   Hire me through ▶️ www.salt.dev
