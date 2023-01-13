@@ -20,7 +20,7 @@ What I work with:
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 <h3>Employer: SALT</h3>
-<h2>Currently looking for deployment</h2><h4>Hire me through ▶️ www.salt.dev</h4>
+<h2>Currently looking for deployment</h2><h4>Hire me through 🧂 www.salt.dev</h4>
 
 <br></br>
 
