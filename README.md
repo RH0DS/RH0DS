@@ -6,7 +6,7 @@ Location: Stockholm
 
 Latest Project:
 ![Alt Text][id]
-[id]: [url/to/img.jpg](https://github.com/Sarehj/Qsign/blob/main/client/src/Components/Images/logo.png?raw=true) "Optional Title"
+[id]: [[url/to/img.jpg](https://github.com/Sarehj/Qsign/blob/main/client/src/Components/Images/logo.png?raw=true)]() "Optional Title"
 
 www.qsign.org 
 https://github.com/Sarehj/Qsign
@@ -24,6 +24,11 @@ JavaScript
 React
 SQL
 TypeScript
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Interests:
