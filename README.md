@@ -39,8 +39,8 @@ TypeScript
 
 Interests:
 
-Coding
-Bowling
+Coding,
+Bowling,
 Gaming
 
 Personality:
