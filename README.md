@@ -2,7 +2,7 @@
 
 ### Age: 37
 
-##Employer: SALT
+#Employer: SALT
 
 Location: Stockholm
 
