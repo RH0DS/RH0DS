@@ -5,6 +5,12 @@ Employer: SALT
 Location: Stockholm
 
 Latest Project:
+
+
+
+
+
+
 [![rsz-screenshot-2023-01-05-at-150015.png](https://i.postimg.cc/nhghP1RD/rsz-screenshot-2023-01-05-at-150015.png)](https://postimg.cc/68VK7CNW)
 
 www.qsign.org 
