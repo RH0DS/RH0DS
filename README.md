@@ -1,4 +1,4 @@
-# Hi there, I'm Robin Öberg 🧭
+# Welcome to my page, I'm Robin 🧭
 Tools of my trade:
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -53,7 +53,11 @@ robin.oberg@appliedtechnology.se
 
 <details>
  <summary><h2> 👉Read more about me here 👈 🤓 </h2></summary>
-   Bio:
+    
+   <h1 align="center">Hi 👋, I'm Robin</h1>
+<h3 align="center">A passionate full-stack developer from Stockholm</h3>
+   
+ 
 I am a software developer with over 20 years of experience in the hospitality industry. I am currently working at SALT where I have been developing web applications using C#, .NET, and ASP.NET. I am also well-versed in HTML, CSS, JavaScript, React, SQL, and TypeScript. My interests include coding, bowling, and gaming. I am currently looking for deployment as a developer. Based in Stockholm, Sweden.
    
 
@@ -67,9 +71,7 @@ Currently looking for deployment
 
    
    
-   
-   <h1 align="center">Hi 👋, I'm Robin</h1>
-<h3 align="center">A passionate full-stack developer from Stockholm</h3>
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rh0ds&label=Profile%20views&color=0e75b6&style=flat" alt="rh0ds" /> </p>
 
