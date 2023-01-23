@@ -77,7 +77,7 @@ Currently looking for deployment
 
 - 🔭 I’m currently working on [Qsign](https://www.qsign.org/)
 
-- 👨‍💻 All of my projects are available at [https://robinobergportfolio.azurewebsites.net/](https://robinobergportfolio.azurewebsites.net/)
+- 👨‍💻 See some of of my projects on my portfolio site (under development) [https://robinobergportfolio.azurewebsites.net/](https://robinobergportfolio.azurewebsites.net/)
 
 - 📫 How to reach me **robin.oberg@appliedtechnology.se or robinob@kth.se**
 
