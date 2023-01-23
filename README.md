@@ -58,7 +58,7 @@ robin.oberg@appliedtechnology.se
 <h3 align="center">A passionate full-stack developer from Stockholm</h3>
    
  
-I am a software developer with over 20 years of experience in the hospitality industry. I am currently working at SALT where I have been developing web applications using C#, .NET, and ASP.NET. I am also well-versed in HTML, CSS, JavaScript, React, SQL, and TypeScript. My interests include coding, bowling, and gaming. I am currently looking for deployment as a developer. Based in Stockholm, Sweden.
+I am a software developer with over 20 years of experience in the hospitality industry. I am currently working at SALT where I have been developing web applications using C#, .NET, and ASP.NET. I am also familiar with HTML, CSS, JavaScript, React, SQL, and TypeScript. My interests include coding, bowling, and gaming. I am currently looking for deployment as a consultant through SALT.
    
 
 Personality:
