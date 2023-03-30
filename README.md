@@ -20,10 +20,12 @@ Tools of my trade:
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 <h3>Employer: SALT</h3>
-<h2>Currently looking for deployment</h2><h4>Hire me through 🧂 www.salt.dev</h4>
+<h2>Looking for deployment!</h2><h4>Hire me through 🧂 www.salt.dev</h4>
 
 <br></br>
+<h4>I just noticed that my contributions to Salthub is not getting registred on my github profile so don't be fooled by the empty callendar, i'm contributing ever day :) </h4>
 <h3>Currently working on Salthub</h3>
+
 <h4> Salthub is an applocation that help sales personel in their work of matching the perfect candidates for any position they are trying to fill. This tool will jumpstart a task that use to take days only a few minutes. My part in this project is to make sure the backend is both secure and functional while still being easy to understand for future developers that will come in and work on it when i'm out on a new deployment. </h4>
 <br/>
 <h2>Latest Project: </h2>
