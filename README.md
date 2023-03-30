@@ -28,7 +28,7 @@ Tools of my trade:
 <br/>
 <h2>Latest Project: </h2>
 
-<h3>www.qsign.org</h3> 
+<h3>https://qsignapp.azurewebsites.net/</h3> 
 
 <h3><a href="https://github.com/Sarehj/Qsign" target="_blank">Qsign public github</a></h3>
 
@@ -67,7 +67,7 @@ Personality:
 I am a relaxed and easy-going person who is adaptable to different situations. I am a team player and I enjoy working with others. I am also very focused and determined when it comes to achieving my goals.
 
 Short term goals:
-Currently looking for deployment 
+Learn and grow my bag of trix
    
    Hire me through ▶️ www.salt.dev
 
@@ -77,7 +77,7 @@ Currently looking for deployment
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rh0ds&label=Profile%20views&color=0e75b6&style=flat" alt="rh0ds" /> </p>
 
-- 🔭 I’m currently working on [Qsign](https://www.qsign.org/)
+- 🔭 I’m currently working on Salthub)
 
 - 👨‍💻 See some of of my projects on my portfolio site (under development) [https://robinobergportfolio.azurewebsites.net/](https://robinobergportfolio.azurewebsites.net/)
 
