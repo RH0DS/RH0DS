@@ -23,7 +23,9 @@ Tools of my trade:
 <h2>Currently looking for deployment</h2><h4>Hire me through 🧂 www.salt.dev</h4>
 
 <br></br>
-
+<h3>Currently working on Salthub</h3>
+<h4> Salthub is an applocation that help sales personel in their work of matching the perfect candidates for any position they are trying to fill. This tool will jumpstart a task that use to take days only a few minutes. My part in this project is to make sure the backend is both secure and functional while still being easy to understand for future developers that will come in and work on it when i'm out on a new deployment. </h4>
+<br/>
 <h2>Latest Project: </h2>
 
 <h3>www.qsign.org</h3> 
