@@ -20,7 +20,7 @@ Tools of my trade:
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 <h3>Employer: SALT</h3>
-<h2>always interested in new opportunities, don't hesitate to reach out to me</h2><h4>Hire me through 🧂 www.salt.dev or contact me for more information</h4>
+<h2>always interested in new opportunities, don't hesitate to reach out to me directly through my socials</h2><h4>Hire me through 🧂 www.salt.dev or contact me for more information</h4>
 
 <br></br>
 <h4> see some of my deployed projects here (still under constuction) https://robinobergportfolio.azurewebsites.net/ </h4>
