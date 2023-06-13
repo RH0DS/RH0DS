@@ -24,8 +24,10 @@ Tools of my trade:
 
 <br></br>
 <h4> see some of my deployed projects here https://robinobergportfolio.azurewebsites.net/ </h4>
-<h3>Currently working on Salthub</h3>
+
 <h3>Currently learning mainframe development</h3>
+
+<h3>Currently working on Salthub</h3>
 
 <h4> Salthub is an applocation that help sales personel in their work of matching the perfect candidates for any position they are trying to fill. This tool will jumpstart a task that use to take days only a few minutes. My part in this project is to make sure the backend is both secure and functional while still being easy to understand for future developers that will come in and work on it when i'm out on a new deployment. </h4>
 <br/>
