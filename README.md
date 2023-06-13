@@ -23,7 +23,7 @@ Tools of my trade:
 <h2>always interested in new opportunities, don't hesitate to reach out to me directly through my socials</h2><h4>Hire me through 🧂 www.salt.dev or contact me for more information</h4>
 
 <br></br>
-<h4> see some of my deployed projects here (still under constuction) https://robinobergportfolio.azurewebsites.net/ </h4>
+<h4> see some of my deployed projects here https://robinobergportfolio.azurewebsites.net/ </h4>
 <h3>Currently working on Salthub</h3>
 <h3>Currently learning mainframe development</h3>
 
