@@ -13,21 +13,21 @@ Tools of my trade:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CCnew 2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 <h3>Employer: SALT</h3>
-<h2>always interested in new opportunities, don't hesitate to reach out to me directly through my socials</h2><h4>Hire me through 🧂 www.salt.dev or contact me for more information</h4>
-
+<h2>Always interested in new challanges don't hesitate to reach out to me directly through my socials</h2>
 <br></br>
 <h4> see some of my deployed projects here https://robinobergportfolio.azurewebsites.net/ </h4>
 
+<h3>Currently prepareing for a new client, Github commits may be lacking during this stage</h3>
 <h3>Currently learning mainframe development</h3>
 
-<h3>Currently working on Salthub</h3>
+<h3>Last project Salthub</h3>
 
 <h4> Salthub is an applocation that help sales personel in their work of matching the perfect candidates for any position they are trying to fill. This tool will jumpstart a task that use to take days only a few minutes. My part in this project is to make sure the backend is both secure and functional while still being easy to understand for future developers that will come in and work on it when i'm out on a new deployment. </h4>
 <br/>
