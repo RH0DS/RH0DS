@@ -31,7 +31,7 @@ Tools of my trade:
 
 <h4> Salthub is an applocation that help sales personel in their work of matching the perfect candidates for any position they are trying to fill. This tool will jumpstart a task that use to take days only a few minutes. My part in this project is to make sure the backend is both secure and functional while still being easy to understand for future developers that will come in and work on it when i'm out on a new deployment. </h4>
 <br/>
-<h2>Latest Project: </h2>
+<h2>prevoius Project: </h2>
 
 <h3>https://qsignapp.azurewebsites.net/</h3> 
 
