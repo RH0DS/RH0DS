@@ -13,7 +13,6 @@ Tools of my trade:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CCnew 2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -25,7 +24,7 @@ Tools of my trade:
 <h4> see some of my deployed projects here https://robinobergportfolio.azurewebsites.net/ </h4>
 
 <h3>Currently Consultant at Trygg Hansa</h3>
-<h3>Mainframe development</h3>
+<h3>Getting everything Mainframe development so wont be very active here for a time commit wise because i'm trapped in the Matrix </h3>
 
 <h3>Last project Salthub</h3>
 
