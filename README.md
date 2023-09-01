@@ -20,12 +20,12 @@ Tools of my trade:
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 <h3>Employer: SALT</h3>
-<h2>Always interested in new challanges don't hesitate to reach out to me directly through my socials</h2>
+<h3>Always interested in new challanges</h3>
 <br></br>
 <h4> see some of my deployed projects here https://robinobergportfolio.azurewebsites.net/ </h4>
 
-<h3>Currently prepareing for a new client, Github commits may be lacking during this stage</h3>
-<h3>Currently learning mainframe development</h3>
+<h3>Currently Consultant at Trygg Hansa</h3>
+<h3>Mainframe development</h3>
 
 <h3>Last project Salthub</h3>
 
