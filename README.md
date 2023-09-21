@@ -21,7 +21,7 @@ Tools of my trade:
 <h3>Employer: SALT</h3>
 <h3>Always interested in new challanges</h3>
 <br></br>
-<h4> see some of my deployed projects here https://robinobergportfolio.azurewebsites.net/ </h4>
+<h4> see some of my deployed projects here https://robinobergportfolio.azurewebsites.net/  this will be up and running again next year when I have time to crawl out of the mainframe</h4>
 
 <h3>Currently Consultant at Trygg Hansa</h3>
 <h3>Getting everything Mainframe development so wont be very active here for a time commit wise because i'm trapped in the Matrix </h3>
@@ -83,7 +83,7 @@ Learn and grow my bag of trix
 
 - 🔭 I’m currently working on Salthub)
 
-- 👨‍💻 See some of of my projects on my portfolio site (under development) [https://robinobergportfolio.azurewebsites.net/](https://robinobergportfolio.azurewebsites.net/)
+- 👨‍💻 See some of of my projects on my portfolio site (Down when I'm stuck in a mainframe) [https://robinobergportfolio.azurewebsites.net/](https://robinobergportfolio.azurewebsites.net/)
 
 - 📫 How to reach me **robin.oberg@appliedtechnology.se or robinob@kth.se**
 
