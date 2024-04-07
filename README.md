@@ -21,12 +21,12 @@ Tools of my trade:
 <h3>Employer: SALT</h3>
 <h3>Always interested in new challanges</h3>
 <br></br>
-<h4> see some of my deployed projects here https://robinobergportfolio.azurewebsites.net/  this will be up and running again next year when I have time to crawl out of the mainframe</h4>
+<h4> The link WONT show some of my deployed projects at https://robinobergportfolio.azurewebsites.net/ for a while but this will be up and running again some time this year when I have time to crawl out of the mainframe</h4>
 
 <h3>Currently Consultant at Trygg Hansa</h3>
 <h3>It's all about Mainframe development right now so wont be very active here for a time commit wise because i'm trapped in the Matrix :)  </h3>
 
-<h3>Last project Salthub</h3>
+<h3>Last non mainframe project Salthub</h3>
 
 <h4> Salthub is an applocation that help sales personel in their work of matching the perfect candidates for any position they are trying to fill. This tool will jumpstart a task that use to take days only a few minutes. My part in this project is to make sure the backend is both secure and functional while still being easy to understand for future developers that will come in and work on it when i'm out on a new deployment. </h4>
 <br/>
@@ -64,7 +64,7 @@ robin.oberg@appliedtechnology.se
 <h3 align="center">A passionate full-stack developer from Stockholm</h3>
    
  
-I am a software developer with over 20 years of experience in the hospitality industry. I am currently working at SALT where I have been developing web applications using C#, .NET, and ASP.NET. I am also familiar with HTML, CSS, JavaScript, React, SQL, and TypeScript. My interests include coding, bowling, and gaming. I am currently looking for deployment as a consultant through SALT.
+I am a software developer with over 20 years of experience in the hospitality industry. I am currently working at SALT and out on deployment for Trygg-Hansa.
    
 
 Personality:
@@ -81,7 +81,7 @@ Learn and grow my bag of trix
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rh0ds&label=Profile%20views&color=0e75b6&style=flat" alt="rh0ds" /> </p>
 
-- 🔭 I’m currently working on Salthub)
+- 🔭 I’m currently working with Trygg-Hansa)
 
 - 👨‍💻 See some of of my projects on my portfolio site (Down when I'm stuck in a mainframe) [https://robinobergportfolio.azurewebsites.net/](https://robinobergportfolio.azurewebsites.net/)
 
