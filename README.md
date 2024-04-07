@@ -24,7 +24,7 @@ Tools of my trade:
 <h4> see some of my deployed projects here https://robinobergportfolio.azurewebsites.net/  this will be up and running again next year when I have time to crawl out of the mainframe</h4>
 
 <h3>Currently Consultant at Trygg Hansa</h3>
-<h3>Getting everything Mainframe development so wont be very active here for a time commit wise because i'm trapped in the Matrix </h3>
+<h3>It's all about Mainframe development right now so wont be very active here for a time commit wise because i'm trapped in the Matrix :)  </h3>
 
 <h3>Last project Salthub</h3>
 
